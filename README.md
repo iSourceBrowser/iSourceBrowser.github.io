@@ -52,3 +52,5 @@
 ### 反馈问题
 
 请直接前往[Github issue](https://github.com/iSourceBrowser/iSourceBrowser.github.io/issues)页面进行反馈。或者前往[App Store]()的评论区进行反馈。
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
