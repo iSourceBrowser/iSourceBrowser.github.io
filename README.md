@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## 源阅 多功能极速浏览器
 
-You can use the [editor on GitHub](https://github.com/iSourceBrowser/SourceBrowser/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 介绍
 
-### Markdown
+源阅是一个浏览器工具，主要用于提升浏览内容的浏览体验。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 干净
 
-```markdown
-Syntax highlighted code block
+* 无广告、无推送、无新闻。
 
-# Header 1
-## Header 2
-### Header 3
+#### 自定义视频播放器
 
-- Bulleted
-- List
+* 支持滑动快进、快退、调整音量、明暗功能。
+* 支持倍速播放功能。
+* 支持锁屏状态横屏全屏播放。
+* 支持投屏功能，远程遥控功能。
 
-1. Numbered
-2. List
+#### 过滤干扰阅读的元素
 
-**Bold** and _Italic_ and `Code` text
+* 提供了基础的广告过滤开关。
+* 提供了手动标记广告功能，能有效过滤干扰阅读的网页内容。
 
-[Link](url) and ![Image](src)
-```
+#### 智能阅读模式
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* 能根据网页内容生成阅读模式，提供更优良的阅读体验。
 
-### Jekyll Themes
+#### 多格式阅读器
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iSourceBrowser/SourceBrowser/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 支持txt、mobi、epub、azw3等多种格式本地书籍。
 
-### Support or Contact
+### 使用
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+### 反馈问题
+
+请直接前往[Github issue](https://github.com/iSourceBrowser/iSourceBrowser.github.io/issues)页面进行反馈。或者前往[App Store]()的评论区进行反馈。
