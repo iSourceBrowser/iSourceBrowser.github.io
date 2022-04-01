@@ -17,7 +17,7 @@
 * 支持锁屏状态横屏全屏播放。
 * 支持投屏功能，远程遥控功能。
 
-<img src="images/成长.svg" alt="drawing" height="30"/>
+<img src="images/电台.svg" alt="drawing" height="30"/>
 #### 自定义音频播放器
 
 * 支持倍速播放功能。
