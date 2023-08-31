@@ -2,7 +2,7 @@
 
 ### 项目
 
-* SourceLook, 本地漫画阅读器
+* [SourceLook, 本地漫画阅读器](https://isourcebrowser.github.io/Apps/SourceLook)
 
 
 

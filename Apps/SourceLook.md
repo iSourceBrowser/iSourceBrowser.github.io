@@ -1,6 +1,6 @@
 ## SourceLook - Manga Reader
 
-### 介绍
+### Intro
 
 This is a local comic book reader
 
